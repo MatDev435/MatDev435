@@ -1,46 +1,41 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4F4F4F&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4F4F4F&size=35&center=true&vCenter=true&width=1000&lines=Opa,+Meu+Nome+é+Mat;Tenho+18+Anos;Eu+Sou+Do+Brasil;Sou+Fullstack+Developer;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MatDev435&bg_color=0d1117&color=4F4F4F&line=A9A9A9&point=808080&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-
-
-
-<div align="center" >  
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MatDev435&show_icons=true&count_private=true&hide_border=true&theme=dark&bg_color=0d1117" alt="MatDev435 github stats" /> 
-  <img  height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatDev435&layout=compact&hide_border=true&theme=dark&bg_color=0d1117" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/MatDev435/count.svg?"  />
 </div>
 
+###
 
+<h1 align="center">🤖 Opa! Beleza?</h1>
 
+###
 
+<p align="left">Meu nome é Matheus!<br><br>🌟 Sobre mim:<br><br>👁️Tenho deficiência visual<br>🔥Sou apaixonado por programação!<br>🌠Meu maior sonho é trabalhar como dev<br>📒Atualmente, estou estudando</p>
 
+###
 
-<p align="center">
-  ―――――――――――――――――――――――――――――――
-</p>
+<h2 align="left">🔥 Skills</h2>
 
- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MatDev435&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15&bg_color=0d1117" />
-</p>
+###
 
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+</div>
 
+###
 
-<p align="center">
-  ―――――――――――――――――――――――――――――――
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MatDev435&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
+###
 
+<img src="https://raw.githubusercontent.com/MatDev435/MatDev435/output/snake.svg" alt="Snake animation" />
 
- ### Main skills:
-![CSS](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp; 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp; 
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp; 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4F4F4F&height=120&section=footer"/>
+###
